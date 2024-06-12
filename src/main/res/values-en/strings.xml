@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to share knowledge in a unique way? Come on in and share your activities or excitement while participating in Dicoding!</string>
+    <string name="title_welcome_page">Welcome to Dicoding Story!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Ready to share your excitement?</string>
+    <string name="name">Name</string>
+    <string name="detail_story">Story Details</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="add_story">Upload Story</string>
+</resources>

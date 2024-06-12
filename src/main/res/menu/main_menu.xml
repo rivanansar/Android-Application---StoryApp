@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/language_setting" />
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/icon_exit"/>
+    <item
+        android:id="@+id/action_sort"
+        android:contentDescription="@string/map_icon"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/maps"
+        app:showAsAction="ifRoom" />
+</menu>
