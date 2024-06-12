@@ -4,7 +4,7 @@ Aplikasi untuk pemenuhan tugas/course dari Dicoding. aplikasi Android ini bertem
 sertifikat kelulusan course : https://www.dicoding.com/certificates/GRX5O333YP0M
 
 Tampilan Awal Aplikasi untuk Login/ Register
-![story1](https://github.com/rivanansar/Android-Application---StoryApp/assets/122036556/90519bdc-47d9-4276-b9d5-12969def68f8)
+<img src="https://github.com/rivanansar/Android-Application---StoryApp/assets/122036556/90519bdc-47d9-4276-b9d5-12969def68f8" alt="story1" width="200"/>
 
 Tampilan Register 
 ![story2](https://github.com/rivanansar/Android-Application---StoryApp/assets/122036556/e7b5e004-d0a0-4794-962a-f63679001d15)
