@@ -1,6 +1,11 @@
 # Android-Application---StoryApp
 
-Aplikasi untuk pemenuhan tugas/course dari Dicoding. aplikasi Android ini bertemakan story app yang dapat digunakan untuk berbagi foto dengan menerapkan Paging.
+Aplikasi untuk pemenuhan tugas/course dari Dicoding. aplikasi Android ini bertemakan story app yang dapat digunakan untuk berbagi foto dengan menerapkan Paging.<br>
+Requirements: 
+- Aplikasi Dapat mengunggah Story
+- Aplikasi dapat mengubah bahasa
+- Aplikasi dapat mengakses maps
+
 sertifikat kelulusan course : https://www.dicoding.com/certificates/GRX5O333YP0M
 
 Tampilan Awal Aplikasi untuk Login/ Register<br>
